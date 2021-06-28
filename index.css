@@ -210,7 +210,7 @@ footer > * {
             font-size: 15px;
             font-weight: lighter;
             /*line-height: 35px;*/
-            overflow: hidden;
+            /*overflow: hidden;*/
         }
         .item::before {
             content: '';
