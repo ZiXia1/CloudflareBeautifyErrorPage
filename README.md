@@ -10,15 +10,15 @@
 ## 演示页面
 | 错误页面类型        | 演示链接                                       |
 | ------------------ | --------------------------------------------- |
-| 没啥用的主页        | <https://cdn-cf.cdnmc.cn/index.html>          |
-| 5XX系列错误页       | <https://cdn-cf.cdnmc.cn/5xxerror.html>       |
-| 100X错误页          | <https://cdn-cf.cdnmc.cn/1xxxerror.html>     |
-| 永远在线页          | <https://cdn-cf.cdnmc.cn/always-online.html> |
-| 5秒盾页             | <https://cdn-cf.cdnmc.cn/5s.html>            |
-| IP屏蔽页            | <https://cdn-cf.cdnmc.cn/block-ip.html>      |
-| 验证码页            | <https://cdn-cf.cdnmc.cn/captcha.html>       |
-| 访问频率过快拦截页   | <https://cdn-cf.cdnmc.cn/1015.html>          |
-| 防火墙拦截页        | <https://cdn-cf.cdnmc.cn/block-waf.html>     |
+| 没啥用的主页        | <>          |
+| 5XX系列错误页       | <>       |
+| 100X错误页          | <>     |
+| 永远在线页          | <> |
+| 5秒盾页             | <>            |
+| IP屏蔽页            | <>      |
+| 验证码页            | <>       |
+| 访问频率过快拦截页   | <>          |
+| 防火墙拦截页        | <>     |
 
 ## ❗BUG/📑建议
 如果在使用过程中发现某些BUG或者代码优化改进等问题请提交Issues
