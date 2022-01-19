@@ -21,6 +21,6 @@
 | 防火墙拦截页        | <>     |
 
 ## ❗BUG/📑建议
-如果在使用过程中发现某些BUG或者代码优化改进等问题请提交Issues
+如果在使用过程中发现某些BUG或者代码优化改进等问题请提交本储存库的Issues或者原作者储存库的Issues
 
 [1]: https://github.com/186526/CloudflareCustomErrorPage
